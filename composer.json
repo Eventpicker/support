@@ -33,11 +33,5 @@
     "suggest": {
         "laravel/framework": "Laravel framework.",
         "symfony/yaml": "The Yaml class needs it"
-    },
-
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.7.x-dev"
-        }
     }
 }
