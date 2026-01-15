@@ -33,5 +33,7 @@
     "suggest": {
         "laravel/framework": "Laravel framework.",
         "symfony/yaml": "The Yaml class needs it"
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
